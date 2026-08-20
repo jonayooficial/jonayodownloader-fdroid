@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1787228424000,
+    "timestamp": 1787238539000,
     "version": 20002,
     "name": "Jonayo Downloader",
     "icon": "icon.png",
@@ -13,41 +13,33 @@
   },
   "apps": [
     {
-      "authorName": "Jonayo",
       "categories": [
-        "Multimedia"
+        "fdroid"
       ],
-      "suggestedVersionName": "1.8.9",
-      "suggestedVersionCode": "102410809",
-      "description": "App para descargar videos y musica de YouTube y ver streaming\ntipo reproductor.",
+      "suggestedVersionCode": "2147483647",
       "license": "Unknown",
-      "summary": "Descarga y streaming de videos y musica",
-      "added": 1787228424000,
-      "packageName": "org.jonayo.jonayodownloader",
-      "lastUpdated": 1787228424000,
-      "localized": {
-        "en-US": {
-          "name": "J Youtube Downloader"
-        }
-      }
+      "name": "J Youtube Downloader",
+      "added": 1787238539000,
+      "packageName": "org.jonayo.jonayodownloader2",
+      "lastUpdated": 1787238539000
     }
   ],
   "packages": {
-    "org.jonayo.jonayodownloader": [
+    "org.jonayo.jonayodownloader2": [
       {
-        "added": 1787228424000,
-        "apkName": "jonayodownloader-1.9.0-arm64-v8a_armeabi-v7a-release.apk",
-        "hash": "8f17a3e33faf71d0cc225e13b1ed04c3fd561cdcf3200b4b1b4e9c0a3ef0038a",
+        "added": 1787238539000,
+        "apkName": "jonayodownloader2-1.9.0-arm64-v8a_armeabi-v7a-release.apk",
+        "hash": "1ce670daeb519b9b4834a5f2b7e9ff6ddc133222b6e9f6e6a5cd5c3f3a47de0f",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
           "arm64-v8a",
           "armeabi-v7a"
         ],
-        "packageName": "org.jonayo.jonayodownloader",
+        "packageName": "org.jonayo.jonayodownloader2",
         "sig": "c216f35576f56a79616f763ed855cfdc",
         "signer": "bc33cd1a6321c8b7d99ace3f656bdf140cf0812337aa53cc26d4f96e1cf9516b",
-        "size": 56279974,
+        "size": 56280322,
         "targetSdkVersion": 33,
         "uses-permission": [
           [

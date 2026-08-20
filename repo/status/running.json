@@ -9,28 +9,31 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1787228428228,
+  "endTimestamp": 1787238545411,
   "failedBuilds": {},
   "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.20-8/x64/bin/jarsigner",
   "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.20-8/x64/bin/keytool",
   "needsUpdate": [
-    "org.jonayo.jonayodownloader"
+    "org.jonayo.jonayodownloader",
+    "org.jonayo.jonayodownloader2"
   ],
   "noPackages": [
-    "org.jonayo.jonayodownloader"
+    "org.jonayo.jonayodownloader",
+    "org.jonayo.jonayodownloader2"
   ],
   "noUpdateCheck": [
-    "org.jonayo.jonayodownloader"
+    "org.jonayo.jonayodownloader",
+    "org.jonayo.jonayodownloader2"
   ],
   "stages": {
-    "delete_disabled_builds": 1787228413146,
-    "index.make repo": 1787228424270,
-    "prepare_apps repo": 1787228424268,
-    "process_apks": 1787228413146,
-    "read_added_date_from_all_apks": 1787228424268,
-    "remove_apks": 1787228424268,
-    "scan_repo_files": 1787228424267
+    "delete_disabled_builds": 1787238525111,
+    "index.make repo": 1787238539707,
+    "prepare_apps repo": 1787238539706,
+    "process_apks": 1787238525111,
+    "read_added_date_from_all_apks": 1787238539706,
+    "remove_apks": 1787238539700,
+    "scan_repo_files": 1787238539700
   },
-  "startTimestamp": 1787228413000,
+  "startTimestamp": 1787238524000,
   "subcommand": "update"
 }

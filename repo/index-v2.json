@@ -14,42 +14,35 @@
       }
     },
     "address": "https://jonayooficial.github.io/jonayodownloader-fdroid/repo",
-    "timestamp": 1787228424000,
+    "timestamp": 1787238539000,
     "categories": {
-      "Multimedia": {
+      "fdroid": {
         "name": {
-          "en-US": "Multimedia"
+          "en-US": "fdroid"
         }
       }
     }
   },
   "packages": {
-    "org.jonayo.jonayodownloader": {
+    "org.jonayo.jonayodownloader2": {
       "metadata": {
-        "added": 1787228424000,
+        "added": 1787238539000,
         "categories": [
-          "Multimedia"
+          "fdroid"
         ],
-        "lastUpdated": 1787228424000,
-        "authorName": "Jonayo",
+        "lastUpdated": 1787238539000,
         "name": {
           "en-US": "J Youtube Downloader"
-        },
-        "summary": {
-          "en-US": "Descarga y streaming de videos y musica"
-        },
-        "description": {
-          "en-US": "App para descargar videos y musica de YouTube y ver streaming\ntipo reproductor."
         },
         "preferredSigner": "bc33cd1a6321c8b7d99ace3f656bdf140cf0812337aa53cc26d4f96e1cf9516b"
       },
       "versions": {
-        "8f17a3e33faf71d0cc225e13b1ed04c3fd561cdcf3200b4b1b4e9c0a3ef0038a": {
-          "added": 1787228424000,
+        "1ce670daeb519b9b4834a5f2b7e9ff6ddc133222b6e9f6e6a5cd5c3f3a47de0f": {
+          "added": 1787238539000,
           "file": {
-            "name": "/jonayodownloader-1.9.0-arm64-v8a_armeabi-v7a-release.apk",
-            "sha256": "8f17a3e33faf71d0cc225e13b1ed04c3fd561cdcf3200b4b1b4e9c0a3ef0038a",
-            "size": 56279974
+            "name": "/jonayodownloader2-1.9.0-arm64-v8a_armeabi-v7a-release.apk",
+            "sha256": "1ce670daeb519b9b4834a5f2b7e9ff6ddc133222b6e9f6e6a5cd5c3f3a47de0f",
+            "size": 56280322
           },
           "manifest": {
             "nativecode": [
@@ -75,10 +68,7 @@
                 "name": "android.permission.REQUEST_INSTALL_PACKAGES"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         }
       }
     }
