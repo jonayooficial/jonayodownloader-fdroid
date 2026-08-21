@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1787337437000,
+    "timestamp": 1787341411000,
     "version": 20002,
     "name": "Jonayo Downloader",
     "icon": "icon.png",
@@ -19,17 +19,17 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "J Youtube Downloader",
-      "added": 1787337437000,
+      "added": 1787341411000,
       "packageName": "org.jonayo.jonayodownloader2",
-      "lastUpdated": 1787337437000
+      "lastUpdated": 1787341411000
     }
   ],
   "packages": {
     "org.jonayo.jonayodownloader2": [
       {
-        "added": 1787337437000,
-        "apkName": "jonayodownloader2-2.0.2-arm64-v8a_armeabi-v7a-release.apk",
-        "hash": "65c8af4983f72d8c9b5f1fc49f39a70dd83af1cf3005e20e3c25027fe7e40aaf",
+        "added": 1787341411000,
+        "apkName": "jonayodownloader2-2.0.3-arm64-v8a_armeabi-v7a-release.apk",
+        "hash": "15586891df05ad6d09c8367371b56c30d3836a2022570a20eae9065822b9a157",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -39,7 +39,7 @@
         "packageName": "org.jonayo.jonayodownloader2",
         "sig": "c216f35576f56a79616f763ed855cfdc",
         "signer": "bc33cd1a6321c8b7d99ace3f656bdf140cf0812337aa53cc26d4f96e1cf9516b",
-        "size": 56602034,
+        "size": 56601746,
         "targetSdkVersion": 33,
         "uses-permission": [
           [
@@ -51,8 +51,8 @@
             null
           ]
         ],
-        "versionCode": 102420002,
-        "versionName": "2.0.2"
+        "versionCode": 102420003,
+        "versionName": "2.0.3"
       }
     ]
   }
