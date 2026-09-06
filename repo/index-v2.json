@@ -14,7 +14,7 @@
       }
     },
     "address": "https://jonayooficial.github.io/jonayodownloader-fdroid/repo",
-    "timestamp": 1788722049000,
+    "timestamp": 1788728149000,
     "categories": {
       "fdroid": {
         "name": {
@@ -26,31 +26,31 @@
   "packages": {
     "org.jonayo.jonayodownloader2": {
       "metadata": {
-        "added": 1788722049000,
+        "added": 1788728149000,
         "categories": [
           "fdroid"
         ],
-        "lastUpdated": 1788722049000,
+        "lastUpdated": 1788728149000,
         "name": {
           "en-US": "J Youtube Downloader"
         },
         "preferredSigner": "bc33cd1a6321c8b7d99ace3f656bdf140cf0812337aa53cc26d4f96e1cf9516b"
       },
       "versions": {
-        "dfcb6ebff11f23706dcb49b647a6c83a9802d7209b9febff2f2708eee702aaa3": {
-          "added": 1788722049000,
+        "643c28e20cdc78cb45d6a5eb8782ff5af896b6ec475bf99a9d34ca4cbbe961e8": {
+          "added": 1788728149000,
           "file": {
-            "name": "/jonayodownloader2-2.0.52-arm64-v8a_armeabi-v7a-release.apk",
-            "sha256": "dfcb6ebff11f23706dcb49b647a6c83a9802d7209b9febff2f2708eee702aaa3",
-            "size": 62884030
+            "name": "/jonayodownloader2-2.0.53-arm64-v8a_armeabi-v7a-release.apk",
+            "sha256": "643c28e20cdc78cb45d6a5eb8782ff5af896b6ec475bf99a9d34ca4cbbe961e8",
+            "size": 62891206
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a",
               "armeabi-v7a"
             ],
-            "versionName": "2.0.52",
-            "versionCode": 102420052,
+            "versionName": "2.0.53",
+            "versionCode": 102420053,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 33
